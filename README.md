@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Welcome to this humble Movie Browser App, created with React, JS, NodeJS, ESLint, and a sprinkle of HTML/CSS.
+The front end of the app is very much still under construction with a final design to still be implemeneted.
+
+Currently running some small prop-type bugs that will be fixed in an upcoming update.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
